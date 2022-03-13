@@ -1,6 +1,8 @@
 title: Hugo Arellano
 
-logo: "/images/picture.jpeg?raw=true"
+avatar: "/images/picture.jpeg?raw=true"
+
+round-avatar: true
 
 description:  
   <p align="center">
