@@ -1,4 +1,5 @@
-title: Hugo Arellano
+title: 
+  <h1 align="center">Hugo Arellano </h1>
 
 logo: "/images/picture.png?raw=true"
 
@@ -6,10 +7,10 @@ description:
   <p align="center">
   <a href="pdf/Hugo_Arellano.pdf">Resume</a> |
   <a href="https://github.com/economistanddatascientist">GitHub</a> |
-  <a href="mailto:carloshugoarellano4@gmail.com">Email</a> |
+  <a href="mailto:carloshugoarellano4@gmail.com">Email</a>
   </p>
 
-  <p align="justify">
+  <p align="centre">
   Learner, economist, amateur coder and sportsman.  
   </p>
 
