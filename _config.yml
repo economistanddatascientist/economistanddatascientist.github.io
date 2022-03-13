@@ -1,17 +1,16 @@
 title: Hugo Arellano
 
-avatar: "/images/picture.jpeg?raw=true"
-
-round-avatar: true
+logo: "/images/picture.png?raw=true"
 
 description:  
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a>
+  <a href="pdf/Hugo_Arellano.pdf">Resume</a>
   <a href="https://github.com/economistanddatascientist">GitHub</a>
+  <a href="mailto:carellano1@ucol.mx">Email</a>
   </p>
 
   <p align="justify">
-  I am an economist in love of data science.
+  Learner, economist, amateur coder and sportsman 
   </p>
 
 theme: jekyll-theme-minimal
