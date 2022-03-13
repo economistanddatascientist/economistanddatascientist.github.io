@@ -4,13 +4,13 @@ logo: "/images/picture.png?raw=true"
 
 description:  
   <p align="center">
-  <a href="pdf/Hugo_Arellano.pdf">Resume</a>
-  <a href="https://github.com/economistanddatascientist">GitHub</a>
-  <a href="mailto:carellano1@ucol.mx">Email</a>
+  <a href="pdf/Hugo_Arellano.pdf">Resume</a> |
+  <a href="https://github.com/economistanddatascientist">GitHub</a> |
+  <a href="mailto:carloshugoarellano4@gmail.com">Email</a> |
   </p>
 
   <p align="justify">
-  Learner, economist, amateur coder and sportsman 
+  Learner, economist, amateur coder and sportsman.  
   </p>
 
 theme: jekyll-theme-minimal
